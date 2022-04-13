@@ -1,1 +1,1 @@
-
+The game development club at CAMS aims to develop video game software, create original art and music, provide a safe working environment, participate in game jams, and expand the game developer community.
